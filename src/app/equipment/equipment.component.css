@@ -25,5 +25,5 @@ button:disabled {
 /* Add the 'nearMaxMass' class style here: */
 .nearMaxMass {
    color: red;
-   font-style: italic; 
+   font-weight: bold; 
 }
